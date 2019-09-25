@@ -3,6 +3,6 @@ A MegaMan X like game
 
 Still in early development.
 
-# Characters.
+# Characters:
 
-# Controls
+# Controls:
